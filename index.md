@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="assets/css/custom.css">
+<style>
+.header, .site-header {
+  background: linear-gradient(#0074D9, #1E90FF) !important;
+}
+</style>
 
 # 👋 Hello, I'm Balamurugan Maruthavanan  
 
