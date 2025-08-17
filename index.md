@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/custom.css">
+
 # 👋 Hello, I'm Balamurugan Maruthavanan  
 
 **Senior DevSecOps Engineer | Azure | Kubernetes | Security Automation**  
