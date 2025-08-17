@@ -7,7 +7,7 @@ Welcome to my portfolio! Here you’ll find my projects, certifications, and blo
 Passionate about building secure, scalable, and resilient cloud-native systems. I specialize in Azure, Kubernetes, CI/CD pipelines, and security automation—bridging the gap between development, operations, and cybersecurity.
 
 🔹 What I Do:
-- Secure Cloud Deployments (Azure/AWS/GCP)
+- Secure Cloud Deployments (Azure/AWS/OCI)
 - Kubernetes & Container Security
 - Infrastructure as Code (IaC) with Terraform & Ansible
 - CI/CD Pipelines with Security Scanning (SAST/DAST)
