@@ -16,7 +16,7 @@ Passionate about building secure, scalable, and resilient cloud-native systems. 
 📌 Explore my projects, certifications, and blog posts below!
 ---
 
-## 🚀 Projects
+## <span style="color: #7ee787">🚀 Projects</span>
 - [N8N Automation tool deployment on Azure Kubernets Services](https://github.com/BalamuruganMaruthavanan/n8n-Automation-Deployment-on-Azure-Kubernetes-Service)  
 - [AKS Secure Deployment with network resources](https://github.com/BalamuruganMaruthavanan/AKS-cluster-with-network-resources)  
 - [Terraform Modules for Azure](https://github.com/BalamuruganMaruthavanan/AKS-cluster-with-network-resources)  
@@ -28,7 +28,7 @@ Passionate about building secure, scalable, and resilient cloud-native systems. 
 
 ---
 
-## 📜 Certifications
+## <span style="color: #ffa657">📜 Certifications</span>
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
@@ -39,7 +39,7 @@ Passionate about building secure, scalable, and resilient cloud-native systems. 
 
 ---
 
-## 📬 Contact
+## <span style="color: #d2a8ff">📬 Contact</span>
 - 📧 Email: chat2balamurugan@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/balamuruganitengineer](https://www.linkedin.com/in/balamuruganitengineer/)  
 - 🐙 GitHub: [github.com/BalamuruganMaruthavanan](https://github.com/BalamuruganMaruthavanan)
