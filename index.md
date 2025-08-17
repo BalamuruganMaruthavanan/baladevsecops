@@ -1,9 +1,3 @@
-<style>
-.header, .site-header {
-  background: linear-gradient(#0074D9, #1E90FF) !important;
-}
-</style>
-
 # 👋 Hello, I'm Balamurugan Maruthavanan  
 
 **Senior DevSecOps Engineer | Azure | Kubernetes | Security Automation**  
