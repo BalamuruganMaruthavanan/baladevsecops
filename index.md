@@ -17,7 +17,7 @@ Passionate about building secure, scalable, and resilient cloud-native systems. 
 ---
 
 ## <span style="color: #7ee787">🚀 Projects</span>
-- [N8N Automation tool deployment on Azure Kubernets Services](https://github.com/BalamuruganMaruthavanan/n8n-Automation-Deployment-on-Azure-Kubernetes-Service)  
+- [N8N Queue Mode Deployment on AKS: Achieving Scalable Workflow Automation](https://github.com/BalamuruganMaruthavanan/n8n-Automation-Deployment-on-Azure-Kubernetes-Service)  
 - [AKS Secure Deployment with network resources](https://github.com/BalamuruganMaruthavanan/AKS-cluster-with-network-resources)  
 - [Terraform Modules for Azure](https://github.com/BalamuruganMaruthavanan/AKS-cluster-with-network-resources)  
 
