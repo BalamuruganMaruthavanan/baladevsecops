@@ -4,14 +4,14 @@
 
 Welcome to my portfolio! Here you’ll find my projects, certifications, and blog posts on cloud, DevOps, and security.
 
-Passionate about building secure, scalable, and resilient cloud-native systems. I specialize in Azure, Kubernetes, CI/CD pipelines, and security automation—bridging the gap between development, operations, and cybersecurity.
+Passionate about building secure, scalable, and resilient cloud-native systems. I architect and secure cloud-native systems with a focus on Azure, Kubernetes, and end-to-end security integration. My mission: Automate security into every layer of the SDLC while enabling scalable, compliant deployments.
 
-🔹 What I Do:
-- Secure Cloud Deployments (Azure/AWS/OCI)
-- Kubernetes & Container Security
-- Infrastructure as Code (IaC) with Terraform & Ansible
-- CI/CD Pipelines with Security Scanning (SAST/DAST)
-- Threat Modeling & Compliance Automation
+🔹 Core Expertise:-
+  - Azure-Centric Security: Designed & deployed secure hub-spoke networks, private endpoints, and Azure-native security controls (Defender for Cloud, Sentinel, Firewall).
+  - Kubernetes Hardening: Secured AKS clusters (RBAC, OPA/Gatekeeper, runtime protection).
+  - Infra as Code (IaC): Terraform, repeatable deployments.
+  - Shift-Left Security: Integrated SAST/DAST (Fortify) into CI/CD (Azure DevOps, GitHub Actions).
+  - Compliance as Code: Automated Azure Policy, CIS benchmarks, and NIST SP 800-53 controls. 
 
 📌 Explore my projects, certifications, and blog posts below!
 ---
