@@ -23,12 +23,12 @@ Passionate about building secure, scalable, and resilient cloud-native systems. 
 
 ---
 
-## 📝 Blog
+## <span style="color: #7ee787">📝 Blog</span>
 👉 [My Blog Posts](https://www.linkedin.com/in/balamuruganitengineer/recent-activity/articles/)  
 
 ---
 
-## <span style="color: #ffa657">📜 Certifications</span>
+## <span style="color: #7ee787">📜 Certifications</span> 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
@@ -39,7 +39,7 @@ Passionate about building secure, scalable, and resilient cloud-native systems. 
 
 ---
 
-## <span style="color: #d2a8ff">📬 Contact</span>
+## <span style="color: #7ee787">📬 Contact</span>
 - 📧 Email: chat2balamurugan@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/balamuruganitengineer](https://www.linkedin.com/in/balamuruganitengineer/)  
 - 🐙 GitHub: [github.com/BalamuruganMaruthavanan](https://github.com/BalamuruganMaruthavanan)
