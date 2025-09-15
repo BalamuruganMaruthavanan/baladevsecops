@@ -1,1 +1,3 @@
-# baladevsecops
+# Balamurugan Maruthavanan
+
+Experienced DevSecOps Engineer and IT Consultant with over 13 years of expertise in architecting, implementing, and managing secure and scalable cloud infrastructure and automation solutions. Skilled in translating business needs into strategic, cost-efficient DevSecOps practices that improve system performance, enhance security posture, and accelerate delivery pipelines. Demonstrated success in optimizing IT environments and driving continuous improvement across diverse industries.
