@@ -43,3 +43,4 @@ Passionate about building secure, scalable, and resilient cloud-native systems. 
 - 📧 Email: chat2balamurugan@gmail.com 
 - 💼 LinkedIn: [linkedin.com/in/balamuruganitengineer](https://www.linkedin.com/in/balamuruganitengineer/)  
 - 🐙 GitHub: [github.com/BalamuruganMaruthavanan](https://github.com/BalamuruganMaruthavanan)
+- 📝 Resume: [View my Resume](https://github.com/BalamuruganMaruthavanan/devsecops/blob/main/Balamurugan%20Maruthavanan%20Azure%20Cloud%20and%20Devops%20Engineer.pdf)
